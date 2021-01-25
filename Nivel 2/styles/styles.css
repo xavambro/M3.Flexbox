@@ -3,12 +3,7 @@
     padding:10px;   
 }
 
-body{
-    display:flex;
-    flex-flow: column nowrap;
-    
-    
-}
+
 /*Header*/
 header *{
     margin:5px;
